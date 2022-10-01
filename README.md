@@ -1,1 +1,1 @@
-# js_1
+# Basit bir HTML-CSS-JS Çalışması
